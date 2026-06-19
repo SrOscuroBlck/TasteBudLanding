@@ -92,7 +92,7 @@ export function BusinessContent() {
               <p className="mt-5 max-w-[620px] text-[clamp(17px,4.5vw,20px)] leading-relaxed text-foreground/70">
                 {t("biz.heroSub")}
               </p>
-              <div className="mt-8 flex flex-wrap gap-3.5">
+              <div className="mt-8 flex flex-wrap justify-center gap-3.5 md:justify-start">
                 <CTAButton href="#contact">{t("biz.cta1")}</CTAButton>
                 <CTAButton href="#modules" variant="ghost">
                   {t("biz.cta2")}

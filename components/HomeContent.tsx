@@ -104,8 +104,8 @@ export function HomeContent() {
               </div>
             </div>
 
-            {/* Phone mockup */}
-            <div className="order-first md:order-last">
+            {/* Phone mockup — sits after the headline on mobile, to the right on desktop */}
+            <div>
               <div className="relative mx-auto w-[300px] max-w-full rounded-[42px] bg-[#0c0c0c] p-[11px] shadow-[0_50px_120px_-30px_rgba(0,0,0,0.9),0_0_0_10px_#1b1714,0_0_0_11px_#2c2622]">
                 <div className="absolute left-1/2 top-3 z-10 h-[26px] w-[110px] -translate-x-1/2 rounded-b-2xl bg-black" />
                 <div className="relative overflow-hidden rounded-[32px] bg-[#0c0c0c] px-3 pb-3 pt-4">
