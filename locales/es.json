@@ -1,0 +1,359 @@
+{
+  "nav": {
+    "howItWorks": "Cómo funciona",
+    "features": "Funciones",
+    "thePicks": "Platos",
+    "faq": "Preguntas",
+    "forBusiness": "Negocios",
+    "login": "Iniciar sesión",
+    "requestAccess": "Solicitar acceso",
+    "tasteHub": "TasteHub",
+    "whatItDoes": "Qué hace",
+    "howItWorksBiz": "Cómo funciona",
+    "talkToUs": "Hablemos",
+    "forDiners": "Para comensales",
+    "home": "Inicio",
+    "openMenu": "Abrir menú",
+    "closeMenu": "Cerrar menú",
+    "toggleLanguage": "Cambiar idioma"
+  },
+  "flavors": {
+    "spicy": "Picante",
+    "umami": "Umami",
+    "sour": "Ácido",
+    "sweet": "Dulce",
+    "rich": "Intenso"
+  },
+  "card": {
+    "spicy": "Picante",
+    "veggie": "Veg",
+    "match": "afín"
+  },
+  "hero": {
+    "badge": "Beta cerrada · invitando a probadores",
+    "eyebrow": "Tu amigo foodie personal",
+    "titleLine1": "Deja de leer menús sin fin.",
+    "titleLine2": "Empieza a saborear.",
+    "sub": "TasteBud aprende lo que te encanta y te entrega los platos que vale la pena pedir — en cualquier restaurante, cada uno con un cálido porqué. Se acabó la parálisis del menú.",
+    "cta1": "Solicita acceso a la beta →",
+    "cta2": "Tengo una invitación",
+    "trust": "Únete a los amantes de la comida que ya prueban la beta",
+    "greeting": "Hola, Maria,",
+    "restaurant": "Storia d’Amore"
+  },
+  "demo": {
+    "arrabiata": {
+      "match": "Buena coincidencia",
+      "novelty": "Popular",
+      "reason": "¡Perfecto para la cena! Notas umami y picantes que coinciden con tu perfil — todavía estamos aprendiendo tu gusto, ¡así que cuéntanos qué opinas!"
+    },
+    "miso": {
+      "match": "Excelente coincidencia",
+      "novelty": "Nuevo para ti",
+      "reason": "Mantecoso, profundamente umami y con un toque dulce — justo el perfil que sigues guardando."
+    }
+  },
+  "stats": [
+    { "n": "2 min", "l": "para crear tu perfil de gusto" },
+    { "n": "10", "l": "ejes de sabor que leemos" },
+    { "n": "Cada plato", "l": "viene con un porqué" },
+    { "n": "0", "l": "menús eternos por revisar" }
+  ],
+  "how": {
+    "eyebrow": "Cómo funciona",
+    "title": "Tres toques: de con hambre a feliz",
+    "sub": "TasteBud convierte “¿qué pido?” en una pregunta que no tendrás que hacerte nunca más.",
+    "steps": [
+      {
+        "num": "PASO 01",
+        "title": "Cuéntanos qué te encanta",
+        "body": "Un test de sabor rápido y divertido — dulce o picante, intenso o fresco. Dos minutos, sin complicaciones de cuenta."
+      },
+      {
+        "num": "PASO 02",
+        "title": "Aprendemos tu gusto",
+        "body": "Tu huella de sabor se afina con cada plato que valoras — para que las recomendaciones sean cada vez más tuyas."
+      },
+      {
+        "num": "PASO 03",
+        "title": "Recibe platos que valen la pena",
+        "body": "En la mesa, escanea el menú y recibe tus recomendaciones — cada una con un cálido “por esto te va a encantar.”"
+      }
+    ]
+  },
+  "features": {
+    "eyebrow": "Por qué TasteBud",
+    "title": "Un compañero con buen gusto",
+    "sub": "Construido sobre precisión y empatía — la recomendación útil, entregada con calidez.",
+    "items": [
+      {
+        "title": "Desliza para reaccionar",
+        "body": "Salta, guarda o pide con un gesto. Reaccionar a los platos es más rápido — y mucho más divertido — que leer un muro de texto del menú."
+      },
+      {
+        "title": "Por esto te va a encantar",
+        "body": "Cada recomendación viene con una razón sensorial ligada a tu gusto — nunca un frío “92% de coincidencia” y nada más."
+      },
+      {
+        "title": "Tu huella de sabor",
+        "body": "Un mapa de gusto vivo que muestra dónde está tu paladar hoy — y cómo evoluciona con el tiempo."
+      },
+      {
+        "title": "Funciona en cualquier restaurante",
+        "body": "Elige dónde estás y TasteBud lee el menú por ti — tus recomendaciones, vayas donde vayas."
+      },
+      {
+        "title": "Aprende de cada comida",
+        "body": "Un breve repaso después de comer le enseña a TasteBud qué acertó — para que las recomendaciones de mañana sean aún más precisas."
+      },
+      {
+        "title": "English & Español",
+        "body": "Totalmente bilingüe desde el primer día, con filtros de dieta y alergias integrados para todos en la mesa."
+      }
+    ]
+  },
+  "showcase": {
+    "eyebrow": "Anatomía de una recomendación",
+    "titleLine1": "No un porcentaje de coincidencia.",
+    "titleLine2": "Una razón para pedir.",
+    "points": [
+      { "b": "Un nivel de confianza fiable", "t": "qué tan bien encaja este plato con tu gusto, de un vistazo." },
+      { "b": "Desglose de sabores", "t": "ve las notas picantes, umami y ácidas antes de que llegue el plato." },
+      { "b": "Distintivos de dieta y picante", "t": "vegetariano, picante y precio, visibles al instante." },
+      { "b": "El cálido “porqué”", "t": "una frase de tu lado: “notas umami y picantes que coinciden con tu perfil.”" }
+    ],
+    "cta": "Pruébalo en tu próxima comida →"
+  },
+  "testimonials": {
+    "eyebrow": "Amado por los indecisos",
+    "title": "Adiós a la parálisis del menú",
+    "items": [
+      {
+        "quote": "Soy de las que tardan 20 minutos en pedir. TasteBud acertó mi plato en 20 segundos — y fue lo mejor que he comido en todo el mes.",
+        "name": "Lucía R.",
+        "role": "Pide de más en serie"
+      },
+      {
+        "quote": "La pequeña razón bajo cada plato es la magia. No solo dice ‘pide esto’ — me dice por qué, y siempre acierta.",
+        "name": "Marco T.",
+        "role": "Habitual entre semana"
+      },
+      {
+        "quote": "¿De viaje y no conoces la cocina? Abre TasteBud, elige el restaurante, desliza. Es como tener un amigo local con buen gusto.",
+        "name": "Sofía & Dan",
+        "role": "Siempre comiendo fuera"
+      }
+    ]
+  },
+  "faq": {
+    "eyebrow": "Bueno saberlo",
+    "title": "Preguntas, respondidas",
+    "items": [
+      {
+        "q": "¿Qué es exactamente TasteBud?",
+        "a": "Un compañero gastronómico personalizado. Le dices qué te encanta, aprende tu gusto y te recomienda los platos que vale la pena pedir — en el restaurante en el que realmente estás — cada uno con un cálido porqué."
+      },
+      {
+        "q": "¿Necesito estar en el restaurante?",
+        "a": "Ahí es donde TasteBud brilla. Elige el lugar en el que estás, dile qué se te antoja, y lee ese menú y te entrega tus recomendaciones. También puedes explorar y guardar platos cuando quieras."
+      },
+      {
+        "q": "¿Maneja restricciones alimentarias?",
+        "a": "Sí — configura vegetariano, vegano, sin gluten, alergias y más al inicio, y cada recomendación las respeta. Los platos están claramente marcados por picante, vegetariano y precio."
+      },
+      {
+        "q": "¿Cómo acierta las recomendaciones?",
+        "a": "Un motor híbrido combina lo que aman las personas con gustos similares con el perfil de sabor real de cada plato, y luego lo ajusta a tu huella. Cada comida que valoras hace más precisa la siguiente recomendación."
+      },
+      {
+        "q": "¿Ya está disponible TasteBud?",
+        "a": "Estamos en una beta cerrada — un pequeño grupo de probadores está dando forma a la experiencia antes de abrir las puertas. Solicita una invitación con tu correo y te incorporaremos a medida que se liberen lugares."
+      },
+      {
+        "q": "¿Cómo empiezo?",
+        "a": "Solicita acceso arriba. Cuando se abra un lugar te enviaremos un enlace de invitación por correo — luego inicia sesión con un código mágico (sin contraseña) y el test de sabor toma unos dos minutos."
+      }
+    ]
+  },
+  "access": {
+    "badge": "Beta cerrada · lugares limitados",
+    "title": "Solicita tu invitación",
+    "sub": "TasteBud está en beta privada. Déjanos tu correo y te enviaremos una invitación a medida que se abran lugares — serás de los primeros en probarlo.",
+    "placeholder": "tu@correo.com",
+    "emailLabel": "Dirección de correo",
+    "button": "Solicitar acceso",
+    "sending": "Enviando…",
+    "done": "¡Estás en la lista! ✓ — te enviaremos tu invitación a medida que se abran lugares.",
+    "errorLead": "Algo salió mal. Escríbenos a",
+    "errorTail": "y te agregamos.",
+    "noteLead": "Sin spam — solo tu invitación y algún consejo de sabor ocasional. ¿Ya dentro?",
+    "openApp": "Abrir la app"
+  },
+  "footer": {
+    "tagline": "Encontrando tu gusto, un plato a la vez. Transformando la forma en que las personas disfrutan la comida — innovación y calidez en cada comida.",
+    "product": "Producto",
+    "company": "Empresa",
+    "legal": "Legal",
+    "howItWorks": "Cómo funciona",
+    "features": "Funciones",
+    "thePicks": "Las recomendaciones",
+    "requestAccess": "Solicitar acceso",
+    "forBusiness": "Para negocios",
+    "tasteHub": "TasteHub para restaurantes",
+    "contact": "Contacto",
+    "privacy": "Privacidad",
+    "terms": "Términos",
+    "rights": "Todos los derechos reservados."
+  },
+  "notFound": {
+    "code": "404",
+    "title": "Este plato no está en el menú.",
+    "body": "La página que buscas se movió o nunca existió. Volvamos a algo sabroso.",
+    "cta": "Volver a TasteBud →"
+  },
+  "biz": {
+    "back": "Volver a TasteBud para comensales",
+    "badge": "TasteHub · en desarrollo activo",
+    "eyebrow": "TasteHub por TasteBud",
+    "titleLine1": "La capa de sabor",
+    "titleLine2": "de tu menú.",
+    "heroSub": "Los restaurantes van a ciegas en lo único que lo decide todo: el sabor. Sabes qué se vendió — pero nunca del todo por qué. TasteHub convierte el grafo de sabor detrás de TasteBud en un sistema operativo para tu menú, para que puedas diagnosticar, diseñar y decidir con la misma precisión que tus comensales sienten en el plato.",
+    "cta1": "Únete al programa de socios de diseño →",
+    "cta2": "Mira qué hace",
+    "problem": {
+      "eyebrow": "El punto ciego",
+      "title": "Puedes medir cada costo en la cocina excepto el que más importa.",
+      "p1": "Un restaurante moderno controla el costo de los alimentos al céntimo, la mano de obra al minuto y los cubiertos por asiento. Sin embargo, la pregunta que decide la noche en silencio — ¿este plato realmente coincide con el gusto de las personas a las que sirvo? — se responde por instinto, el paladar de un chef y el mix de ventas del mes pasado. Cuando un plato se estanca, los datos te dicen que se estancó. Nunca te dicen si fue demasiado amargo para tu clientela del almuerzo, opacado por un plato similar tres líneas más arriba, o simplemente con un precio por encima de su valor percibido.",
+      "p2": "TasteBud ya habla el idioma que falta. Para recomendar platos a los comensales, representa tanto a las personas como a los platos como perfiles de sabor y textura en un mismo espacio compartido. TasteHub apunta ese mismo motor a tu negocio — para que la incertidumbre en el diseño del menú se convierta en algo que puedes leer, probar y mejorar."
+    },
+    "modules": {
+      "eyebrow": "Qué hace TasteHub",
+      "title": "Tres formas de gestionar tu menú con base en el sabor",
+      "sub": "Un grafo de sabor, tres tareas — diagnostica lo que está en el menú, diseña lo que viene, y conoce de verdad para quién cocinas.",
+      "items": [
+        {
+          "tag": "Diagnóstico de Platos",
+          "title": "Sabe exactamente por qué un plato no se vende",
+          "lead": "Los reportes de ventas te dicen qué tuvo bajo desempeño. Nunca te dicen por qué. TasteHub sí.",
+          "body": "TasteHub descompone cada plato en su perfil de sabor y textura — dulce, ácido, salado, amargo, umami, graso, picante, además de crujiente, cremoso y masticable — y lo contrasta con las personas que realmente entran por tu puerta. En lugar de un plano “esto se vendió poco”, obtienes un diagnóstico jerarquizado y en lenguaje claro de la causa raíz.",
+          "points": [
+            "Un desajuste de sabor — el plato queda fuera del perfil de tu clientela",
+            "Una sola nota o ingrediente desagradable que lo arrastra",
+            "Canibalización por un plato mejor ajustado de tu propio menú",
+            "Precio y ubicación en el menú jugando en su contra"
+          ]
+        },
+        {
+          "tag": "Copiloto de Sabor",
+          "title": "Diseña platos nuevos alineados para vender",
+          "lead": "Un socio creativo para tu cocina que piensa en sabor, no en suposiciones.",
+          "body": "Describe un hueco — “un plato principal de verano más ligero por menos de $18” — y el copiloto propone platos y ajustes afinados a los sabores que tus comensales desean y a lo que está en alza en el grafo de sabor más amplio. Antes de preparar una sola porción, proyecta cómo caerá el plato: una distribución de coincidencia prevista en tu base de comensales, una puntuación de popularidad esperada y una alerta de cualquier plato existente que podría canibalizar.",
+          "points": [
+            "Ideas generativas de platos y sabores, afinadas a tu clientela",
+            "Recepción y popularidad previstas antes de cocinar",
+            "Experimenta sin riesgo — modela un cambio de sabor y ve el impacto",
+            "Conserva tu sello; afina lo que lo rodea"
+          ]
+        },
+        {
+          "tag": "Inteligencia de Comensales",
+          "title": "Entiende a tus comensales a nivel de sabor",
+          "lead": "Deja de adivinar para quién cocinas. Ve la huella de sabor de tu clientela.",
+          "body": "TasteHub construye el perfil de sabor agregado de las personas que realmente comen contigo — y del barrio a tu alrededor — y rastrea cómo cambia por franja horaria y temporada. Superpónlo sobre tu menú actual y los huecos se iluminan: los perfiles de sabor que tus comensales quieren y que sub-atiendes, y aquellos en los que te sobre-enfocas. Es la diferencia entre un menú construido sobre el instinto y uno construido sobre la demanda.",
+          "points": [
+            "Tendencias de sabor en vivo, por franja horaria y temporada",
+            "Cobertura del menú vs. demanda real de comensales, lado a lado",
+            "Tu clientela y tu barrio, comparados",
+            "Privacidad primero — siempre agregado, nunca individual"
+          ]
+        }
+      ]
+    },
+    "outcomes": [
+      { "n": "El porqué, no solo el qué", "l": "diagnóstico de causa raíz para cada plato" },
+      { "n": "Pre-lanzamiento", "l": "recepción prevista antes de preparar" },
+      { "n": "10 ejes", "l": "resolución de sabor + textura" },
+      { "n": "Un solo grafo", "l": "comensales y platos en un mismo idioma" }
+    ],
+    "flywheel": {
+      "eyebrow": "Cómo funciona",
+      "title": "Un volante de sabor que se acumula",
+      "sub": "TasteBud y TasteHub son dos extremos de un mismo ciclo. Cuanto más saborean los comensales, más inteligentes son tus decisiones de menú.",
+      "steps": [
+        { "num": "01", "title": "Los comensales reaccionan", "body": "Las personas usan TasteBud para encontrar platos que aman en tu restaurante, reaccionando a los platos sobre la marcha." },
+        { "num": "02", "title": "El sabor se vuelve datos", "body": "Cada reacción afina un grafo de sabor compartido — platos y comensales descritos en el mismo idioma de sabor." },
+        { "num": "03", "title": "TasteHub lo convierte en decisiones", "body": "Ves por qué los platos triunfan o se estancan, diseñas nuevos con confianza y alineas el menú con la demanda real." },
+        { "num": "04", "title": "El menú mejora", "body": "Los menús mejor ajustados deleitan a más comensales — que reaccionan más — y todo el ciclo se acumula a tu favor." }
+      ]
+    },
+    "partners": {
+      "eyebrow": "Para socios",
+      "title": "La buena comida merece ser encontrada",
+      "sub": "Ya sea que dirijas una cocina o apoyes a los equipos que dan forma a cómo come la gente — empecemos una conversación.",
+      "restaurants": {
+        "title": "Para restaurantes",
+        "desc": "Pon tus mejores platos frente a los comensales con más probabilidad de amarlos — y convierte el menú mismo en un sistema que puedes afinar.",
+        "points": [
+          "Destaca tus platos insignia ante los paladares correctos",
+          "Diagnostica los de bajo desempeño hasta la nota de sabor",
+          "Diseña y fija precios de platos nuevos con demanda prevista",
+          "Llega a los comensales por su gusto, no por anuncios ruidosos"
+        ]
+      },
+      "investors": {
+        "title": "Para inversores",
+        "desc": "Una app de consumo y una plataforma B2B alimentando un mismo grafo de sabor propio. Si apoyas volantes de datos defendibles en una categoría que todos tocan tres veces al día, hablemos.",
+        "points": [
+          "Un volante de datos de personalización que se acumula",
+          "Dos productos, un foso de datos cada vez más amplio",
+          "Mobile-first y bilingüe desde el primer día",
+          "Una beta cerrada ya moldeando engagement real"
+        ]
+      }
+    },
+    "contact": {
+      "title": "Hablemos de negocios",
+      "sub": "Cuéntanos un poco sobre ti y te contactaremos en un plazo de dos días hábiles.",
+      "emailLead": "¿Prefieres correo? Escríbenos a"
+    }
+  },
+  "form": {
+    "name": "Tu nombre",
+    "workEmail": "Correo de trabajo",
+    "roleDefault": "Soy…",
+    "roleRestaurant": "Restaurante / hostelería",
+    "roleGroup": "Grupo / cadena de restaurantes",
+    "roleInvestor": "Inversor",
+    "rolePress": "Prensa / medios",
+    "roleOther": "Otra cosa",
+    "company": "Empresa / fondo (opcional)",
+    "companyLabel": "Empresa o fondo",
+    "message": "¿De qué te gustaría hablar?",
+    "messageLabel": "Mensaje",
+    "send": "Inicia la conversación →",
+    "sending": "Enviando…",
+    "done": "Gracias — te contactaremos en un plazo de dos días hábiles ✓",
+    "errorLead": "Algo salió mal. Contáctanos directamente en",
+    "roleLabel": "Soy"
+  },
+  "legal": {
+    "back": "Volver al inicio",
+    "placeholderNote": "Esto es un texto de marcador de posición para la beta de TasteBud. Reemplázalo con tu texto legal revisado antes del lanzamiento público.",
+    "contactHeading": "Contacto",
+    "contactLead": "¿Preguntas? Escribe a",
+    "privacy": {
+      "title": "Política de Privacidad",
+      "collectHeading": "Qué recopilamos",
+      "collectBody": "Durante la beta cerrada recopilamos la dirección de correo que envías para solicitar acceso y — una vez que inicias sesión — las preferencias de sabor y reacciones a platos que proporcionas para poder personalizar las recomendaciones.",
+      "useHeading": "Cómo lo usamos",
+      "useBody": "Usamos tus datos únicamente para operar y mejorar la experiencia de recomendación. Señales de sabor agregadas y anonimizadas pueden informar nuestro producto para restaurantes, TasteHub. Nunca vendemos tus datos personales."
+    },
+    "terms": {
+      "title": "Términos del Servicio",
+      "betaHeading": "La beta",
+      "betaBody": "TasteBud se proporciona durante una beta cerrada “tal cual” mientras refinamos el producto. Las funciones pueden cambiar y el acceso se concede a nuestra discreción a medida que se abren lugares.",
+      "useHeading": "Uso aceptable",
+      "useBody": "Aceptas usar TasteBud con fines personales y lícitos y no hacer mal uso, extraer datos ni intentar interrumpir el servicio."
+    }
+  }
+}

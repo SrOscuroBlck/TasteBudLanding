@@ -1,0 +1,132 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* TasteBud Design System — Always Dark, Warm & Premium.
+   Tokens copied verbatim from the product app (tastebud-pal/src/index.css)
+   so the marketing site and the app are visually one brand. */
+
+@layer base {
+  :root {
+    --background: 0 0% 5%;
+    --foreground: 35 100% 93%;
+
+    --card: 15 8% 8%;
+    --card-foreground: 35 100% 93%;
+
+    --primary: 11 100% 34%;
+    --primary-foreground: 35 100% 93%;
+    --primary-dark: 11 100% 28%;
+    --primary-light: 11 80% 45%;
+
+    --secondary: 15 40% 18%;
+    --secondary-foreground: 35 100% 93%;
+
+    --muted: 15 8% 12%;
+    --muted-foreground: 35 20% 50%;
+
+    --destructive: 0 84% 45%;
+    --destructive-foreground: 35 100% 93%;
+
+    --border: 15 8% 15%;
+    --input: 15 8% 15%;
+    --ring: 11 100% 34%;
+
+    --radius: 1rem;
+
+    --gradient-primary: linear-gradient(135deg, hsl(11 100% 34%), hsl(15 80% 42%));
+    --shadow-glow: 0 10px 40px -10px hsla(11, 100%, 34%, 0.4);
+
+    --ease-smooth: cubic-bezier(0.4, 0, 0.2, 1);
+  }
+
+  * {
+    border-color: hsl(var(--border));
+    box-sizing: border-box;
+  }
+
+  html {
+    scroll-behavior: smooth;
+    /* offset anchored sections so the sticky nav doesn't cover headings */
+    scroll-padding-top: 84px;
+  }
+
+  body {
+    background: hsl(var(--background));
+    color: hsl(var(--foreground));
+    -webkit-font-smoothing: antialiased;
+    overflow-x: hidden;
+  }
+
+  ::selection {
+    background: hsla(11, 100%, 34%, 0.4);
+    color: hsl(var(--foreground));
+  }
+}
+
+@layer components {
+  /* ── Frosted glass surface ── */
+  .glass {
+    background: hsla(15, 10%, 13%, 0.6);
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+    border: 1px solid hsla(35, 20%, 50%, 0.08);
+  }
+
+  /* ── Gradient brand text ── */
+  .gradient-text {
+    background: var(--gradient-primary);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    color: transparent;
+  }
+
+  /* ── Eyebrow label ── */
+  .eyebrow {
+    font-size: 0.75rem;
+    font-weight: 700;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: hsl(var(--primary-light));
+  }
+
+  /* ── Organic floating background blobs ── */
+  .organic-shapes {
+    position: absolute;
+    inset: 0;
+    overflow: hidden;
+    pointer-events: none;
+    z-index: 0;
+  }
+
+  .organic-shape {
+    position: absolute;
+    background: hsl(15, 30%, 15%);
+    opacity: 0.4;
+    border-radius: 40% 60% 65% 35% / 40% 45% 55% 60%;
+    filter: blur(8px);
+    animation: float-shape 20s ease-in-out infinite;
+  }
+}
+
+@layer utilities {
+  .scrollbar-hide::-webkit-scrollbar {
+    display: none;
+  }
+  .scrollbar-hide {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.001ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.001ms !important;
+    scroll-behavior: auto !important;
+  }
+}

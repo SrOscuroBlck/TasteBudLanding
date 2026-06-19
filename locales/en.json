@@ -1,0 +1,359 @@
+{
+  "nav": {
+    "howItWorks": "How it works",
+    "features": "Features",
+    "thePicks": "The picks",
+    "faq": "FAQ",
+    "forBusiness": "For business",
+    "login": "Log in",
+    "requestAccess": "Request access",
+    "tasteHub": "TasteHub",
+    "whatItDoes": "What it does",
+    "howItWorksBiz": "How it works",
+    "talkToUs": "Talk to us",
+    "forDiners": "For diners",
+    "home": "Home",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
+    "toggleLanguage": "Toggle language"
+  },
+  "flavors": {
+    "spicy": "Spicy",
+    "umami": "Umami",
+    "sour": "Sour",
+    "sweet": "Sweet",
+    "rich": "Rich"
+  },
+  "card": {
+    "spicy": "Spicy",
+    "veggie": "Veggie",
+    "match": "match"
+  },
+  "hero": {
+    "badge": "Closed beta · now inviting testers",
+    "eyebrow": "Your personal foodie friend",
+    "titleLine1": "Stop scrolling menus.",
+    "titleLine2": "Start tasting.",
+    "sub": "TasteBud learns what you love and hands you the dishes worth ordering — at any restaurant, each with a warm reason why. No more menu paralysis.",
+    "cta1": "Request beta access →",
+    "cta2": "I have an invite",
+    "trust": "Join the food lovers already testing the beta",
+    "greeting": "Hey Maria,",
+    "restaurant": "Storia d’Amore"
+  },
+  "demo": {
+    "arrabiata": {
+      "match": "Strong match",
+      "novelty": "Popular",
+      "reason": "Perfect for dinner! Umami and spicy notes that match your profile — we’re still learning your taste, so let us know what you think!"
+    },
+    "miso": {
+      "match": "Great match",
+      "novelty": "New to you",
+      "reason": "Buttery, umami-deep and a touch sweet — exactly the profile you keep saving."
+    }
+  },
+  "stats": [
+    { "n": "2 min", "l": "to build your taste profile" },
+    { "n": "10", "l": "flavor axes we read" },
+    { "n": "Every pick", "l": "comes with a reason why" },
+    { "n": "0", "l": "endless menu scrolling" }
+  ],
+  "how": {
+    "eyebrow": "How it works",
+    "title": "Three taps from hungry to happy",
+    "sub": "TasteBud turns “what should I order?” into a question you never have to ask again.",
+    "steps": [
+      {
+        "num": "STEP 01",
+        "title": "Tell us what you love",
+        "body": "A quick, playful taste quiz — sweet or spicy, rich or fresh. Two minutes, no account headaches."
+      },
+      {
+        "num": "STEP 02",
+        "title": "We learn your taste",
+        "body": "Your flavor fingerprint sharpens with every meal you rate — so the picks keep getting more you."
+      },
+      {
+        "num": "STEP 03",
+        "title": "Get dishes worth ordering",
+        "body": "At the table, scan the menu and get your picks — each with a warm “here’s why you’ll love it.”"
+      }
+    ]
+  },
+  "features": {
+    "eyebrow": "Why TasteBud",
+    "title": "A companion with great taste",
+    "sub": "Built around precision and empathy — the useful pick, delivered kindly.",
+    "items": [
+      {
+        "title": "Swipe to react",
+        "body": "Skip, save, or order with a flick. Reacting to dishes is faster — and far more fun — than reading a wall of menu text."
+      },
+      {
+        "title": "Here’s why you’ll love it",
+        "body": "Every recommendation comes with a sensory reason tied to your taste — never a cold “92% match” and nothing else."
+      },
+      {
+        "title": "Your flavor fingerprint",
+        "body": "A living taste map that shows where your taste stands today — and how it’s evolving over time."
+      },
+      {
+        "title": "Works at any restaurant",
+        "body": "Pick where you are, and TasteBud reads the menu for you — your picks, wherever the night takes you."
+      },
+      {
+        "title": "Learns from every meal",
+        "body": "A quick post-meal check-in teaches TasteBud what landed — so tomorrow’s picks are even sharper."
+      },
+      {
+        "title": "English & Español",
+        "body": "Fully bilingual from day one, with dietary and allergy filters baked in for everyone at the table."
+      }
+    ]
+  },
+  "showcase": {
+    "eyebrow": "Anatomy of a pick",
+    "titleLine1": "Not a match score.",
+    "titleLine2": "A reason to order.",
+    "points": [
+      { "b": "A confidence score you can trust", "t": "how well this dish fits your taste, at a glance." },
+      { "b": "Flavor breakdown", "t": "see the spicy, umami and sour notes before the plate arrives." },
+      { "b": "Dietary & heat badges", "t": "veggie, spicy and price, surfaced up front." },
+      { "b": "The warm “why”", "t": "a sentence in your corner: “umami and spicy notes that match your profile.”" }
+    ],
+    "cta": "Try it on your next meal →"
+  },
+  "testimonials": {
+    "eyebrow": "Loved by the indecisive",
+    "title": "Goodbye, menu paralysis",
+    "items": [
+      {
+        "quote": "I’m the person who takes 20 minutes to order. TasteBud nailed my pick in 20 seconds — and it was the best thing I’ve eaten all month.",
+        "name": "Lucía R.",
+        "role": "Serial over-orderer"
+      },
+      {
+        "quote": "The little reason under each dish is the magic. It doesn’t just say ‘order this’ — it tells me why, and it’s always right.",
+        "name": "Marco T.",
+        "role": "Weeknight regular"
+      },
+      {
+        "quote": "Travelling and don’t know the cuisine? Open TasteBud, pick the restaurant, swipe. It feels like having a local friend with great taste.",
+        "name": "Sofía & Dan",
+        "role": "Always eating out"
+      }
+    ]
+  },
+  "faq": {
+    "eyebrow": "Good to know",
+    "title": "Questions, answered",
+    "items": [
+      {
+        "q": "What exactly is TasteBud?",
+        "a": "A personalized dining companion. You tell it what you love, it learns your taste, and it recommends the dishes worth ordering — at the restaurant you’re actually at — each with a warm reason why."
+      },
+      {
+        "q": "Do I need to be at the restaurant?",
+        "a": "That’s where TasteBud shines. Pick the place you’re at, tell it what you’re in the mood for, and it reads that menu and hands you your picks. You can also browse and save dishes any time."
+      },
+      {
+        "q": "Does it handle dietary restrictions?",
+        "a": "Yes — set vegetarian, vegan, gluten-free, allergies and more during setup, and every recommendation respects them. Dishes are clearly badged for spice, veggie and price."
+      },
+      {
+        "q": "How does it get the recommendations right?",
+        "a": "A hybrid engine combines what people with similar taste love with the actual flavor profile of each dish, then tunes to your fingerprint. Every meal you rate makes the next pick sharper."
+      },
+      {
+        "q": "Is TasteBud available yet?",
+        "a": "We’re in a closed beta — a small group of testers is shaping the experience before we open the doors. Request an invite with your email and we’ll bring you in as spots free up."
+      },
+      {
+        "q": "How do I get started?",
+        "a": "Request access above. When a spot opens we’ll email you an invite link — then sign in with a magic code (no password) and the taste quiz takes about two minutes."
+      }
+    ]
+  },
+  "access": {
+    "badge": "Closed beta · limited spots",
+    "title": "Request your invite",
+    "sub": "TasteBud is in private beta. Drop your email and we’ll send an invite as spots open up — you’ll be among the first to taste it.",
+    "placeholder": "you@email.com",
+    "emailLabel": "Email address",
+    "button": "Request access",
+    "sending": "Sending…",
+    "done": "You’re on the list ✓ — we’ll email your invite as spots open.",
+    "errorLead": "Something went wrong. Email us at",
+    "errorTail": "and we’ll add you.",
+    "noteLead": "No spam — just your invite and the occasional taste tip. Already in?",
+    "openApp": "Open the app"
+  },
+  "footer": {
+    "tagline": "Finding your taste, one dish at a time. Transforming the way people enjoy food — innovation and warmth in every meal.",
+    "product": "Product",
+    "company": "Company",
+    "legal": "Legal",
+    "howItWorks": "How it works",
+    "features": "Features",
+    "thePicks": "The picks",
+    "requestAccess": "Request access",
+    "forBusiness": "For business",
+    "tasteHub": "TasteHub for restaurants",
+    "contact": "Contact",
+    "privacy": "Privacy",
+    "terms": "Terms",
+    "rights": "All rights reserved."
+  },
+  "notFound": {
+    "code": "404",
+    "title": "This dish isn’t on the menu.",
+    "body": "The page you’re looking for moved or never existed. Let’s get you back to something tasty.",
+    "cta": "Back to TasteBud →"
+  },
+  "biz": {
+    "back": "Back to TasteBud for diners",
+    "badge": "TasteHub · in active development",
+    "eyebrow": "TasteHub by TasteBud",
+    "titleLine1": "The taste layer",
+    "titleLine2": "for your menu.",
+    "heroSub": "Restaurants fly blind on the one thing that decides everything: flavor. You know what sold — never quite why. TasteHub turns the taste graph behind TasteBud into an operating system for your menu, so you can diagnose, design, and decide with the same precision your diners feel on the plate.",
+    "cta1": "Join the design-partner program →",
+    "cta2": "See what it does",
+    "problem": {
+      "eyebrow": "The blind spot",
+      "title": "You can measure every cost in the kitchen except the one that matters most.",
+      "p1": "A modern restaurant tracks food cost to the cent, labour to the minute, and covers to the seat. Yet the question that quietly decides the night — does this dish actually match the taste of the people I serve? — gets answered by instinct, a chef’s palate, and last month’s sales mix. When a plate stalls, the data tells you it stalled. It never tells you whether it was too bitter for your lunch crowd, undercut by a similar dish three lines up, or simply priced past its perceived value.",
+      "p2": "TasteBud already speaks the missing language. To recommend dishes to diners, it represents both people and plates as flavor and texture profiles in one shared space. TasteHub points that same engine at your business — so the guesswork in menu design becomes something you can read, test, and improve."
+    },
+    "modules": {
+      "eyebrow": "What TasteHub does",
+      "title": "Three ways to run your menu on taste",
+      "sub": "One taste graph, three jobs to be done — diagnose what’s on the menu, design what’s next, and truly know who you cook for.",
+      "items": [
+        {
+          "tag": "Dish Diagnostics",
+          "title": "Know exactly why a plate isn’t selling",
+          "lead": "Sales reports tell you what underperformed. They never tell you why. TasteHub does.",
+          "body": "TasteHub decomposes every dish into its flavor and texture profile — sweet, sour, salty, bitter, umami, fatty, spicy, plus crunch, cream and chew — and weighs it against the people who actually walk through your door. Instead of a flat “this sold poorly,” you get a ranked, plain-language diagnosis of the root cause.",
+          "points": [
+            "A taste mismatch — the dish sits outside your room’s profile",
+            "A single off-putting note or ingredient dragging it down",
+            "Cannibalization by a better-matched dish on your own menu",
+            "Pricing and menu placement working against it"
+          ]
+        },
+        {
+          "tag": "Flavor Copilot",
+          "title": "Design new dishes that are aligned to sell",
+          "lead": "A creative partner for your kitchen that thinks in flavor, not guesswork.",
+          "body": "Describe a gap — “a lighter summer main under $18” — and the copilot proposes dishes and tweaks tuned to the flavors your diners crave and to what’s rising across the wider taste graph. Before you prep a single portion, it projects how the dish will land: a predicted match distribution across your diner base, an expected popularity score, and a flag for any existing plate it might cannibalize.",
+          "points": [
+            "Generative dish and flavor ideas, tuned to your room",
+            "Predicted reception and popularity before you cook",
+            "Experiment safely — model a flavor swap and see the lift",
+            "Keeps your signature; sharpens what surrounds it"
+          ]
+        },
+        {
+          "tag": "Diner Intelligence",
+          "title": "Understand your diners at the level of taste",
+          "lead": "Stop guessing who you cook for. See the flavor fingerprint of your room.",
+          "body": "TasteHub builds the aggregate taste profile of the people who actually eat with you — and the neighborhood around you — and tracks how it shifts by daypart and season. Lay it over your current menu and the gaps light up: the flavor profiles your diners want that you under-serve, and the ones you over-index on. It’s the difference between a menu built on instinct and one built on demand.",
+          "points": [
+            "Live flavor trends, by daypart and season",
+            "Menu coverage vs. real diner demand, side by side",
+            "Your room and your neighborhood, benchmarked",
+            "Privacy-first — always aggregate, never individual"
+          ]
+        }
+      ]
+    },
+    "outcomes": [
+      { "n": "Why, not just what", "l": "root-cause diagnosis for every dish" },
+      { "n": "Pre-launch", "l": "predicted reception before you prep" },
+      { "n": "10-axis", "l": "flavor + texture taste resolution" },
+      { "n": "One graph", "l": "diners and dishes in one language" }
+    ],
+    "flywheel": {
+      "eyebrow": "How it works",
+      "title": "A taste flywheel that compounds",
+      "sub": "TasteBud and TasteHub are two ends of one loop. The more diners taste, the smarter your menu decisions get.",
+      "steps": [
+        { "num": "01", "title": "Diners react", "body": "People use TasteBud to find dishes they love at your restaurant, reacting to plates as they go." },
+        { "num": "02", "title": "Taste becomes data", "body": "Every reaction sharpens a shared taste graph — dishes and diners described in the same flavor language." },
+        { "num": "03", "title": "TasteHub turns it into decisions", "body": "You see why dishes win or stall, design new ones with confidence, and align the menu to real demand." },
+        { "num": "04", "title": "The menu gets better", "body": "Better-matched menus delight more diners — who react more — and the whole loop compounds in your favor." }
+      ]
+    },
+    "partners": {
+      "eyebrow": "For partners",
+      "title": "Great food deserves to be found",
+      "sub": "Whether you run a kitchen or back the teams shaping how people eat — let’s start a conversation.",
+      "restaurants": {
+        "title": "For restaurants",
+        "desc": "Get your best dishes in front of the diners most likely to love them — and turn the menu itself into a system you can tune.",
+        "points": [
+          "Spotlight your signature dishes to the right palates",
+          "Diagnose underperformers down to the flavor note",
+          "Design and price new dishes with predicted demand",
+          "Reach diners by taste, not noisy ads"
+        ]
+      },
+      "investors": {
+        "title": "For investors",
+        "desc": "A consumer app and a B2B platform feeding one proprietary taste graph. If you back defensible data flywheels in a category everyone touches three times a day, let’s talk.",
+        "points": [
+          "A personalization data flywheel that compounds",
+          "Two products, one widening data moat",
+          "Mobile-first and bilingual from day one",
+          "A closed beta already shaping real engagement"
+        ]
+      }
+    },
+    "contact": {
+      "title": "Let’s talk business",
+      "sub": "Tell us a little about you and we’ll be in touch within two business days.",
+      "emailLead": "Prefer email? Reach us at"
+    }
+  },
+  "form": {
+    "name": "Your name",
+    "workEmail": "Work email",
+    "roleDefault": "I’m a…",
+    "roleRestaurant": "Restaurant / hospitality",
+    "roleGroup": "Restaurant group / chain",
+    "roleInvestor": "Investor",
+    "rolePress": "Press / media",
+    "roleOther": "Something else",
+    "company": "Company / fund (optional)",
+    "companyLabel": "Company or fund",
+    "message": "What would you like to talk about?",
+    "messageLabel": "Message",
+    "send": "Start the conversation →",
+    "sending": "Sending…",
+    "done": "Thanks — we’ll be in touch within two business days ✓",
+    "errorLead": "Something went wrong. Reach us directly at",
+    "roleLabel": "I am a"
+  },
+  "legal": {
+    "back": "Back home",
+    "placeholderNote": "This is a placeholder for the TasteBud beta. Replace it with your reviewed legal copy before public launch.",
+    "contactHeading": "Contact",
+    "contactLead": "Questions? Email",
+    "privacy": {
+      "title": "Privacy Policy",
+      "collectHeading": "What we collect",
+      "collectBody": "During the closed beta we collect the email address you submit to request access, and — once you sign in — the taste preferences and dish reactions you provide so we can personalize recommendations.",
+      "useHeading": "How we use it",
+      "useBody": "We use your data solely to operate and improve the recommendation experience. Aggregate, de-identified taste signals may inform our restaurant-facing product, TasteHub. We never sell your personal data."
+    },
+    "terms": {
+      "title": "Terms of Service",
+      "betaHeading": "The beta",
+      "betaBody": "TasteBud is provided during a closed beta on an “as is” basis while we refine the product. Features may change, and access is granted at our discretion as spots open up.",
+      "useHeading": "Acceptable use",
+      "useBody": "You agree to use TasteBud for personal, lawful purposes and not to misuse, scrape, or attempt to disrupt the service."
+    }
+  }
+}
