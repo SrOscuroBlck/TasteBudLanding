@@ -341,22 +341,163 @@
   },
   "legal": {
     "back": "Volver al inicio",
-    "placeholderNote": "Esto es un texto de marcador de posición para la beta de TasteBud. Reemplázalo con tu texto legal revisado antes del lanzamiento público.",
-    "contactHeading": "Contacto",
-    "contactLead": "¿Preguntas? Escribe a",
+    "updatedLabel": "Última actualización",
+    "updated": "20 de junio de 2026",
+    "contactHeading": "Contáctanos",
+    "contactLead": "¿Preguntas sobre este documento o quieres ejercer tus derechos de privacidad? Escríbenos a",
     "privacy": {
       "title": "Política de Privacidad",
-      "collectHeading": "Qué recopilamos",
-      "collectBody": "Durante la beta cerrada recopilamos la dirección de correo que envías para solicitar acceso y — una vez que inicias sesión — las preferencias de sabor y reacciones a platos que proporcionas para poder personalizar las recomendaciones.",
-      "useHeading": "Cómo lo usamos",
-      "useBody": "Usamos tus datos únicamente para operar y mejorar la experiencia de recomendación. Señales de sabor agregadas y anonimizadas pueden informar nuestro producto para restaurantes, TasteHub. Nunca vendemos tus datos personales."
+      "intro": [
+        "TasteBud (“TasteBud”, “nosotros”) ofrece un servicio de recomendación gastronómica personalizada a través de nuestro sitio web tastebud-co.com y nuestra app. Esta Política de Privacidad explica qué información personal recopilamos, cómo la usamos y compartimos, y las opciones y derechos que tienes.",
+        "Al usar TasteBud, aceptas la recopilación y el uso de información tal como se describe aquí. Si no estás de acuerdo, por favor no uses el Servicio."
+      ],
+      "sections": [
+        {
+          "h": "1. Información que recopilamos",
+          "p": ["Recopilamos la información que nos das directamente y la que obtenemos automáticamente cuando usas TasteBud, y la limitamos a lo necesario para recomendarte platos que te encantarán."],
+          "items": [
+            "Información que proporcionas: tu correo electrónico (para solicitar acceso a la beta e iniciar sesión), tus respuestas al test de sabor de bienvenida, las restricciones alimentarias, alergias y exclusiones que configuras, tus reacciones, valoraciones y comentarios después de comer, el restaurante o la zona que eliges para tus recomendaciones, tu preferencia de idioma y —si nos contactas o usas nuestro formulario para negocios— tu nombre, empresa, rol y mensaje.",
+            "Información que recopilamos automáticamente: datos básicos de dispositivo y uso (como el tipo de navegador y dispositivo, las páginas vistas y las acciones realizadas) y datos de registro y diagnóstico para operar y proteger el Servicio.",
+            "No recopilamos tu ubicación GPS exacta — tú nos dices en qué restaurante o zona estás comiendo."
+          ]
+        },
+        {
+          "h": "2. Cómo usamos tu información",
+          "items": [
+            "Ofrecer, personalizar y mejorar tus recomendaciones de platos y construir tu perfil de gusto en evolución (tu “huella de sabor”).",
+            "Iniciar tu sesión de forma segura mediante códigos de un solo uso enviados a tu correo (no usamos contraseñas).",
+            "Responder a tus solicitudes y enviarte mensajes del servicio, como tu invitación a la beta y algún consejo de sabor ocasional.",
+            "Mantener el Servicio seguro — previniendo abusos, depurando errores y protegiéndote a ti y a otras personas usuarias.",
+            "Mejorar nuestros modelos de recomendación y desarrollar nuevas funciones.",
+            "Cumplir con obligaciones legales y hacer valer nuestros Términos."
+          ]
+        },
+        {
+          "h": "3. Procesamiento automatizado e IA",
+          "p": [
+            "TasteBud funciona con sistemas automatizados e inteligencia artificial. Representamos tanto los platos como tu gusto mediante perfiles numéricos, y usamos servicios de IA de terceros de confianza (actualmente OpenAI) para generar los embeddings de los platos y las explicaciones escritas que acompañan a cada recomendación.",
+            "Para ello, las descripciones de los platos y características de sabor que no te identifican pueden ser procesadas por estos proveedores. Estos sistemas nos ayudan a recomendarte comida; no toman decisiones legalmente significativas sobre ti, y siempre puedes decirnos cuando una recomendación no acierta para que podamos aprender."
+          ]
+        },
+        {
+          "h": "4. Cómo compartimos la información",
+          "p": ["No vendemos tu información personal ni la compartimos con anunciantes. Solo la compartimos en estos casos limitados:"],
+          "items": [
+            "Proveedores de servicios: empresas que alojan y operan TasteBud, almacenan nuestros datos, envían nuestros correos y proporcionan las funciones de IA descritas arriba — sujetas a contratos que limitan el uso de tus datos a la prestación de esos servicios.",
+            "Información agregada y anonimizada: podemos generar estadísticas de sabor agregadas que no te identifican y usarlas para operar y mejorar TasteBud y nuestro producto para restaurantes, TasteHub.",
+            "Aspectos legales y de seguridad: cuando lo creamos razonablemente necesario para cumplir la ley, hacer valer nuestros Términos o proteger los derechos, la seguridad y la integridad de las personas usuarias y del Servicio.",
+            "Transferencias empresariales: en relación con una fusión, adquisición, financiación o venta de activos, sujeto a esta Política."
+          ]
+        },
+        {
+          "h": "5. Cookies y almacenamiento local",
+          "p": ["Usamos un conjunto mínimo de cookies y almacenamiento local del navegador para mantener tu sesión iniciada (tokens de autenticación) y recordar tu preferencia de idioma (el ajuste “tastebud-language”). No usamos cookies de publicidad de terceros ni de rastreo entre sitios. Puedes borrarlas de tu navegador en cualquier momento, aunque tendrás que iniciar sesión de nuevo."]
+        },
+        {
+          "h": "6. Conservación de los datos",
+          "p": ["Conservamos la información de tu cuenta mientras esté activa. Tus comentarios de sabor se ponderan con un decaimiento temporal — las señales más antiguas se desvanecen gradualmente (con una vida media de unos 21 días) — para que tu perfil refleje tu gusto actual. Los correos de la lista de espera de la beta se conservan hasta que abramos al público o nos pidas que te eliminemos. Borramos o anonimizamos los datos personales cuando ya no son necesarios, salvo que debamos conservarlos por obligaciones legales."]
+        },
+        {
+          "h": "7. Tus derechos y opciones",
+          "p": [
+            "Según dónde vivas — incluyendo el RGPD de la UE/Reino Unido y leyes de América Latina y otras regiones — puedes tener derecho a acceder, corregir, eliminar o exportar tus datos personales, a oponerte o limitar ciertos tratamientos y a retirar tu consentimiento en cualquier momento. Puedes ejercer estos derechos, o pedirnos que eliminemos tu cuenta, escribiéndonos (ver “Contáctanos” abajo); responderemos dentro del plazo que exija la ley.",
+            "Cierta información sobre dieta y alergias puede considerarse dato personal sensible. La tratamos únicamente para ofrecerte recomendaciones seguras y relevantes, y con tu consentimiento. Puedes actualizarla o eliminarla en tu perfil en cualquier momento.",
+            "Cuando aplica el RGPD, nos basamos en estas bases legales: la ejecución de nuestro contrato contigo (ofrecerte recomendaciones), tu consentimiento (por ejemplo, unirte a la lista de espera y proporcionar datos de dieta) y nuestro interés legítimo en operar, proteger y mejorar TasteBud."
+          ]
+        },
+        {
+          "h": "8. Transferencias internacionales",
+          "p": ["TasteBud trabaja con proveedores de servicios ubicados en Estados Unidos y otros países. Si usas TasteBud desde otro lugar, tu información puede transferirse y procesarse en países cuyas leyes de protección de datos difieren de las tuyas. Cuando es necesario, tomamos medidas para proteger tu información de forma coherente con esta Política."]
+        },
+        {
+          "h": "9. Seguridad",
+          "p": ["Protegemos tu información con medidas que incluyen cifrado en tránsito (HTTPS), inicio de sesión sin contraseña mediante código de un solo uso y controles de acceso. Ningún método de transmisión o almacenamiento es completamente seguro, así que aunque trabajamos arduamente para proteger tus datos no podemos garantizar una seguridad absoluta."]
+        },
+        {
+          "h": "10. Privacidad de menores",
+          "p": ["TasteBud no está dirigido a menores de 13 años (o la edad mínima que exija tu país) y no recopilamos conscientemente su información personal. Si crees que un menor nos ha proporcionado datos personales, contáctanos y los eliminaremos."]
+        },
+        {
+          "h": "11. Cambios en esta Política",
+          "p": ["Podemos actualizar esta Política de Privacidad a medida que TasteBud evoluciona. Actualizaremos la fecha de “Última actualización” de arriba y, ante cambios importantes, daremos aviso adicional cuando corresponda. Si sigues usando TasteBud tras una actualización, aceptas la Política revisada."]
+        }
+      ]
     },
     "terms": {
       "title": "Términos del Servicio",
-      "betaHeading": "La beta",
-      "betaBody": "TasteBud se proporciona durante una beta cerrada “tal cual” mientras refinamos el producto. Las funciones pueden cambiar y el acceso se concede a nuestra discreción a medida que se abren lugares.",
-      "useHeading": "Uso aceptable",
-      "useBody": "Aceptas usar TasteBud con fines personales y lícitos y no hacer mal uso, extraer datos ni intentar interrumpir el servicio."
+      "intro": [
+        "Estos Términos del Servicio (“Términos”) rigen tu acceso y uso del sitio web, la app y los servicios relacionados de TasteBud (en conjunto, el “Servicio”), proporcionados por TasteBud (“TasteBud”, “nosotros”).",
+        "Al acceder o usar el Servicio, aceptas estos Términos y nuestra Política de Privacidad. Si no estás de acuerdo, por favor no uses el Servicio."
+      ],
+      "sections": [
+        {
+          "h": "1. Quién puede usar TasteBud",
+          "p": ["Debes tener al menos 13 años — o la edad mínima de consentimiento digital de tu país — y capacidad para celebrar un contrato vinculante para usar TasteBud. Si eres menor de la mayoría de edad donde vives, solo puedes usar el Servicio con la participación y el consentimiento de tu padre, madre o tutor legal."]
+        },
+        {
+          "h": "2. El Servicio y su estado beta",
+          "p": ["TasteBud te ayuda a decidir qué pedir aprendiendo tu gusto y recomendándote platos, cada uno con una breve explicación. Actualmente el Servicio se ofrece como una beta cerrada, “tal cual” y “según disponibilidad”. Las funciones pueden cambiar, interrumpirse o eliminarse, y el acceso puede concederse, limitarse o revocarse a nuestra discreción mientras desarrollamos el producto."]
+        },
+        {
+          "h": "3. Tu cuenta e inicio de sesión",
+          "p": ["TasteBud usa inicio de sesión sin contraseña: te enviamos un código de un solo uso por correo. Eres responsable de la cuenta de correo que uses para iniciar sesión y de la actividad que ocurra en tu cuenta. Mantén tu correo seguro y avísanos de inmediato si sospechas de un acceso no autorizado."]
+        },
+        {
+          "h": "4. Comida, alergias e información dietética — léelo, por favor",
+          "p": [
+            "Las recomendaciones, los perfiles de sabor, los distintivos de dieta y picante y las explicaciones de TasteBud se ofrecen únicamente con fines informativos generales y pueden estar incompletos, desactualizados o ser inexactos. Los menús, ingredientes, recetas y métodos de preparación los controlan los restaurantes, no TasteBud, y pueden cambiar en cualquier momento sin previo aviso.",
+            "TasteBud no prepara la comida y no puede garantizar que un plato esté libre de un ingrediente o alérgeno determinado, ni que sea adecuado para una dieta o condición médica específica. Si tienes una alergia alimentaria, intolerancia o una condición médica o dietética, debes confirmar los ingredientes y la preparación directamente con el restaurante antes de pedir o comer, y nunca confiar en TasteBud para evitar un alérgeno.",
+            "Asumes plena responsabilidad por tus elecciones de comida. En la máxima medida permitida por la ley, TasteBud no se hace responsable de ninguna reacción alérgica, enfermedad, lesión u otro daño derivado de la comida que pidas o consumas."
+          ]
+        },
+        {
+          "h": "5. Tu contenido y comentarios",
+          "p": ["Cuando proporcionas preferencias de sabor, reacciones a platos, valoraciones, comentarios u otro contenido, otorgas a TasteBud una licencia mundial, no exclusiva y libre de regalías para usar, alojar, almacenar, reproducir y procesar ese contenido con el fin de operar, personalizar y mejorar el Servicio y crear información agregada y anonimizada. Confirmas que tienes derecho a compartirlo. Si nos envías sugerencias o ideas, podremos usarlas libremente y sin ninguna obligación hacia ti."]
+        },
+        {
+          "h": "6. Uso aceptable",
+          "p": ["Aceptas usar TasteBud de forma lícita y respetuosa. En particular, aceptas no:"],
+          "items": [
+            "hacer un uso indebido, interrumpir, sobrecargar o intentar acceder sin autorización al Servicio o a sus sistemas;",
+            "extraer (scraping), rastrear, recolectar o copiar datos del Servicio salvo cuando esté expresamente permitido;",
+            "realizar ingeniería inversa, descompilar o intentar extraer nuestro código fuente, modelos o datos subyacentes;",
+            "usar el Servicio para infringir la ley o los derechos de terceros; ni",
+            "enviar contenido falso, engañoso, dañino o que no tengas derecho a enviar."
+          ]
+        },
+        {
+          "h": "7. Propiedad intelectual",
+          "p": ["El Servicio — incluyendo TasteBud y TasteHub, y su software, modelos, diseño, textos, gráficos, logotipos y marcas — es propiedad de TasteBud y está protegido por las leyes de propiedad intelectual. Te concedemos una licencia limitada, personal, intransferible y revocable para usar el Servicio con su finalidad prevista. Todos los derechos no concedidos expresamente quedan reservados."]
+        },
+        {
+          "h": "8. Restaurantes y terceros",
+          "p": ["TasteBud es independiente: no estamos afiliados, no respaldamos ni operamos los restaurantes cuyos menús aparecen en el Servicio. La información de los menús puede provenir de fuentes de terceros y puede ser inexacta o estar desactualizada. Cualquier interacción o transacción que tengas con un restaurante u otro tercero es únicamente entre tú y ellos."]
+        },
+        {
+          "h": "9. Renuncias de garantía",
+          "p": ["El Servicio se ofrece “tal cual” y “según disponibilidad”, sin garantías de ningún tipo, ya sean expresas o implícitas, incluidas las de comerciabilidad, idoneidad para un fin particular, exactitud y no infracción. No garantizamos que el Servicio sea ininterrumpido o esté libre de errores, ni que una recomendación cumpla tus expectativas o se ajuste a tus necesidades."]
+        },
+        {
+          "h": "10. Limitación de responsabilidad",
+          "p": ["En la máxima medida permitida por la ley, TasteBud y su equipo no serán responsables de daños indirectos, incidentales, especiales, consecuentes o punitivos, ni de la pérdida de datos, beneficios o reputación, ni de ningún daño derivado de la comida que pidas o consumas, que surja de o se relacione con tu uso del Servicio. Nuestra responsabilidad total por cualquier reclamación relacionada con el Servicio no superará el mayor de: el importe que nos hayas pagado en los 12 meses anteriores a la reclamación (que, durante la beta gratuita, es cero) o 100 USD."]
+        },
+        {
+          "h": "11. Indemnización",
+          "p": ["Aceptas indemnizar y eximir de responsabilidad a TasteBud y su equipo frente a cualquier reclamación, daño, pérdida y gasto razonable que surja de tu uso indebido del Servicio, de tu contenido o de tu incumplimiento de estos Términos o de la ley aplicable."]
+        },
+        {
+          "h": "12. Terminación",
+          "p": ["Puedes dejar de usar TasteBud en cualquier momento. Podemos suspender o finalizar tu acceso en cualquier momento — incluso por un incumplimiento de estos Términos o para descontinuar la beta. Las disposiciones que por su naturaleza deban subsistir tras la terminación (como la licencia que concedes sobre el contenido ya proporcionado, las renuncias de garantía, la limitación de responsabilidad y la indemnización) seguirán aplicándose."]
+        },
+        {
+          "h": "13. Ley aplicable",
+          "p": ["Estos Términos se rigen por las leyes de la jurisdicción en la que TasteBud está establecido, sin atender a las normas sobre conflicto de leyes, y aceptas la jurisdicción exclusiva de los tribunales competentes ubicados allí — salvo cuando las leyes imperativas de protección al consumidor de tu país de residencia te otorguen derechos adicionales."]
+        },
+        {
+          "h": "14. Cambios en estos Términos",
+          "p": ["Podemos actualizar estos Términos a medida que el Servicio evoluciona. Actualizaremos la fecha de “Última actualización” de arriba y, ante cambios importantes, daremos aviso cuando corresponda. Si sigues usando TasteBud tras una actualización, aceptas los Términos revisados."]
+        }
+      ]
     }
   }
 }
