@@ -100,13 +100,35 @@
     z-index: 0;
   }
 
+  /* A soft warm glow, not a hard disc. The radial gradient fades fully to
+     transparent before the element's edge, so there's no visible rim even when
+     the shape is clipped by a section's overflow. The heavy blur keeps it
+     ambient. It gently drifts for anyone who hasn't asked to reduce motion. */
   .organic-shape {
     position: absolute;
-    background: hsl(15, 30%, 15%);
-    opacity: 0.4;
-    border-radius: 40% 60% 65% 35% / 40% 45% 55% 60%;
-    filter: blur(8px);
-    animation: float-shape 20s ease-in-out infinite;
+    border-radius: 50%;
+    background: radial-gradient(
+      circle at 50% 50%,
+      hsla(13, 52%, 24%, 0.55) 0%,
+      hsla(13, 46%, 18%, 0.28) 38%,
+      transparent 72%
+    );
+    filter: blur(48px);
+    will-change: transform;
+    animation: tb-glow-drift 26s ease-in-out infinite;
+  }
+
+  @keyframes tb-glow-drift {
+    0%,
+    100% {
+      transform: translate3d(0, 0, 0) scale(1);
+    }
+    33% {
+      transform: translate3d(34px, -26px, 0) scale(1.08);
+    }
+    66% {
+      transform: translate3d(-24px, 20px, 0) scale(0.95);
+    }
   }
 }
 

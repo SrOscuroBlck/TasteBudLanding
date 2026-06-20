@@ -15,11 +15,13 @@ export const metadata: Metadata = {
     description: DESC,
     url: `${site.url}/for-business`,
     type: "website",
+    images: [{ url: "/og-image.png", width: 1200, height: 630, alt: TITLE }],
   },
   twitter: {
     card: "summary_large_image",
     title: `${TITLE} · ${site.name}`,
     description: DESC,
+    images: ["/og-image.png"],
   },
 };
 
